@@ -141,7 +141,7 @@ p {
   height: 600px;
   overflow: hidden;
 }
-#testimonials .testimonial img{
+#testimonials .testimonial img {
   height: 100px;
   width: 90px;
   float: left;
@@ -149,28 +149,28 @@ p {
   border-radius: 50%;
 }
 
-.row{
+.row {
   background: rgba(39, 62, 84, 0.4);
   overflow: hidden;
   height: 600px;
   z-index: 2;
 }
 
-#testimonials .lead-head{
+#testimonials .lead-head {
   color: #fff;
   padding-top: 20px;
   margin-bottom: 20px;
 }
-.bg-primary{
+.bg-primary {
   background: rgba(255, 255, 255, 0.4);
 }
-#testimonials .testimonial{
+#testimonials .testimonial {
   padding: 20px;
   width: 50%;
   margin-bottom: 40px;
   border-radius: 1.2em;
 }
-footer{
+footer {
   background: #082032;
   height: 70px;
   overflow: auto;
