@@ -1,6 +1,5 @@
 body p,
 a {
-  
   max-width: 100%;
 }
 #navbar h1 {
@@ -52,6 +51,7 @@ h2 {
 #testimonials {
   background: url(../image/section.jpg) no-repeat center center/cover;
   height: 550px;
+  background-size: 700px;
   overflow: hidden;
 }
 
@@ -71,10 +71,10 @@ h2 {
   float: right;
   padding: 5px;
 }
-#right{
-    text-align: right;
+#right {
+  text-align: right;
 }
-footer{
-    height: 50px;
-    overflow: auto;
+footer {
+  height: 50px;
+  overflow: auto;
 }
